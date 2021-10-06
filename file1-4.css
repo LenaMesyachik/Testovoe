@@ -1,0 +1,14 @@
+@charset "windows-1231";
+
+#button1 {
+background-color: #9CEE90;
+border: #9CEE90;
+height: 50px;
+width: 100px;
+}
+#search {
+border: 1px solid red;
+padding: 7px 15px;
+height: 100px;
+width: 500px;
+}
